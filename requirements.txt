@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+numpy
+sqlalchemy
+psycopg2-binary
+influxdb-client
+redis
+kafka-python
